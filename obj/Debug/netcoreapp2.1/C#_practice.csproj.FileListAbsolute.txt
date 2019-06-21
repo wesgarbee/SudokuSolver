@@ -1,0 +1,11 @@
+/Users/wesgarbee/Documents/ACACS/C#_practice/SudokuSolver/bin/Debug/netcoreapp2.1/C#_practice.deps.json
+/Users/wesgarbee/Documents/ACACS/C#_practice/SudokuSolver/bin/Debug/netcoreapp2.1/C#_practice.runtimeconfig.json
+/Users/wesgarbee/Documents/ACACS/C#_practice/SudokuSolver/bin/Debug/netcoreapp2.1/C#_practice.runtimeconfig.dev.json
+/Users/wesgarbee/Documents/ACACS/C#_practice/SudokuSolver/bin/Debug/netcoreapp2.1/C#_practice.dll
+/Users/wesgarbee/Documents/ACACS/C#_practice/SudokuSolver/bin/Debug/netcoreapp2.1/C#_practice.pdb
+/Users/wesgarbee/Documents/ACACS/C#_practice/SudokuSolver/obj/Debug/netcoreapp2.1/C#_practice.csprojAssemblyReference.cache
+/Users/wesgarbee/Documents/ACACS/C#_practice/SudokuSolver/obj/Debug/netcoreapp2.1/C#_practice.csproj.CoreCompileInputs.cache
+/Users/wesgarbee/Documents/ACACS/C#_practice/SudokuSolver/obj/Debug/netcoreapp2.1/C#_practice.AssemblyInfoInputs.cache
+/Users/wesgarbee/Documents/ACACS/C#_practice/SudokuSolver/obj/Debug/netcoreapp2.1/C#_practice.AssemblyInfo.cs
+/Users/wesgarbee/Documents/ACACS/C#_practice/SudokuSolver/obj/Debug/netcoreapp2.1/C#_practice.dll
+/Users/wesgarbee/Documents/ACACS/C#_practice/SudokuSolver/obj/Debug/netcoreapp2.1/C#_practice.pdb
